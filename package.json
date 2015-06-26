@@ -1,6 +1,6 @@
 {
   "name": "@wookiehangover/backbone-super-sync",
-  "version": "0.0.22",
+  "version": "1.0.0",
   "description": "Server-side Backbone.sync adapter using super agent.",
   "keywords": [
     "backbone",
@@ -18,7 +18,6 @@
   "engines": {
     "node": ">= 0.10.x"
   },
-
   "scripts": {
     "test": "mocha test.js -r should"
   },
